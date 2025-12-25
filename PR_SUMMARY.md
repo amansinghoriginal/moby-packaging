@@ -49,7 +49,7 @@ This document provides:
    - Extensively tested and widely deployed
 
 2. **containerd v2.2.1**
-   - Latest stable release (December 2025)
+   - Latest stable release
    - Full compatibility with Docker Moby 27.x and 28.x
    - Supports OCI runtime-spec v1.3
 

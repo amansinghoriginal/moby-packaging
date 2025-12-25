@@ -60,7 +60,7 @@ The following versions are recommended for building Moby packages. These version
 - **Alternative**: v29.1.3 (latest, API 1.47+) for bleeding-edge deployments
 
 ### containerd v2.2.1
-- **Latest Stable**: Most recent stable release as of December 2025
+- **Latest Stable**: Most recent stable release
 - **Compatibility**: Works seamlessly with Docker Moby 27.x and 28.x
 - **Updates**: Includes runc v1.3.4 binary (though we package v1.4.0 separately)
 - **Features**: Full support for modern container runtimes and OCI spec v1.3
